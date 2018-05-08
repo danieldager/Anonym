@@ -27,7 +27,13 @@ To Do:
 * Include editor pages (landing page, apply page, editing page)
 * Implement infinite scroll on the read page 
 
+## Landing Page
+
+<img src="src/images/landingpage.png" width="900"> 
+
 ## Sign In Page 
 
-<img src="src/images/signinpage.png" width="150"> 
+<img src="src/images/signinpage.png" width="900"> 
 
+* Understanding React Components in abstraction is essential to getting over the framework's learning curve
+* On this page, 
